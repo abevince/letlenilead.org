@@ -7,6 +7,13 @@ const Home: NextPage = () => {
     <>
     <Head>
       <title>🇵🇭 Let Leni Lead</title>
+      <meta name="title" content="🇵🇭 Let Leni Lead" />
+      <meta name="description" content=""/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:url" content="http://www.letlenilead.org/"/>
+      <meta property="og:title" content="🇵🇭 Let Leni Lead"/>
+      <meta property="og:description" content="LabanLeni2022"/>
+      <meta property="og:image" content="/social.png"/>
     </Head>
     <div className="w-full h-screen bg-black flex flex-col justify-center items-center">
       {/* <h1 className="text-5xl text-white">🇵🇭 Let Leni Lead 🇵🇭</h1>
